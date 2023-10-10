@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/PolygonPirates/Maps/Demonstration.umap
+Content/LevelActual.umap
